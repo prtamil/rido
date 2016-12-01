@@ -1,0 +1,731 @@
+INFO 2016-11-29 16:44:51,805 _internal 34208 140735212744704  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2016-11-29 16:44:51,807 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:44:52,162 _internal 34211 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:44:52,170 _internal 34211 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:44:59,756 routes 34211 123145307557888 First Time Creating Local DB
+INFO 2016-11-29 16:44:59,765 routes 34211 123145307557888 DB Created 
+INFO 2016-11-29 16:44:59,767 _internal 34211 123145307557888 127.0.0.1 - - [29/Nov/2016 16:44:59] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 16:44:59,773 tasks 34211 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 16:44:59,773 tasks 34211 123145312813056 ImmutableMultiDict([('total_investment', '10000,'), ('avg_petrol_maint', '8,'), ('petrol_cars_no', '2,'), ('lpg_price', '5,'), ('no_of_drivers', '4,'), ('avg_lpg_maint', '1,'), ('avg_maint_cost', '40,'), ('lpg_cars_no', '1,'), ('avg_disel_maint', '5,'), ('areas_no', '2,'), ('disel_price', '40,'), ('disel_cars_no', '1,'), ('drive_time_per_drver', '8,'), ('petrol_price', '60,'), ('driver_salary', '2,'), ('no_of_kms', '20,'), ('no_of_days', '20,')])
+DEBUG 2016-11-29 16:44:59,773 tasks 34211 123145312813056 {'total_investment': '10000', 'areas_no': '2', 'petrol_cars_no': '2', 'disel_price': '40', 'lpg_price': '5', 'no_of_drivers': '4', 'disel_cars_no': '1', 'avg_petrol_maint': '8', 'avg_lpg_maint': '1', 'lpg_cars_no': '1', 'avg_maint_cost': '40', 'drive_time_per_drver': '8', 'petrol_price': '60', 'driver_salary': '2', 'avg_disel_maint': '5', 'no_of_kms': '20', 'no_of_days': '20'}
+DEBUG 2016-11-29 16:44:59,777 tasks 34211 123145312813056 added
+DEBUG 2016-11-29 16:44:59,787 tasks 34211 123145312813056 Simulation Done
+INFO 2016-11-29 16:45:07,517 _internal 34211 123145307557888 127.0.0.1 - - [29/Nov/2016 16:45:07] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 16:45:07,534 _internal 34211 123145307557888 127.0.0.1 - - [29/Nov/2016 16:45:07] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 16:47:52,991 _internal 34211 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 16:47:53,060 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:47:53,524 _internal 34370 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:47:53,530 _internal 34370 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:48:13,738 _internal 34370 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 16:48:13,806 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:48:14,172 _internal 34389 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:48:14,178 _internal 34389 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:48:24,292 _internal 34389 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 16:48:24,353 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:48:24,696 _internal 34400 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:48:24,701 _internal 34400 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:48:45,921 _internal 34400 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 16:48:45,990 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:48:46,327 _internal 34422 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:48:46,334 _internal 34422 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:49:02,500 _internal 34422 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 16:49:02,563 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:49:02,933 _internal 34438 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:49:02,940 _internal 34438 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:49:05,973 _internal 34438 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 16:49:06,034 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:49:06,387 _internal 34444 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:49:06,393 _internal 34444 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:49:20,539 _internal 34444 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 16:49:20,602 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:49:20,951 _internal 34460 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:49:20,958 _internal 34460 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:49:38,144 _internal 34460 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:49:38,204 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:49:38,551 _internal 34474 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:49:38,556 _internal 34474 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:49:52,713 _internal 34474 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:49:52,778 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:49:53,135 _internal 34490 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:49:53,142 _internal 34490 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:50:58,825 _internal 34490 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/app.py', reloading
+INFO 2016-11-29 16:50:58,886 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:50:59,245 _internal 34551 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:50:59,252 _internal 34551 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:51:18,454 _internal 34551 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:51:18,516 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:51:18,896 _internal 34570 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:51:18,901 _internal 34570 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:51:31,027 _internal 34570 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:51:31,091 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:51:31,463 _internal 34584 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:51:31,470 _internal 34584 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:51:39,564 _internal 34584 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:51:39,626 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:51:39,968 _internal 34595 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:51:39,973 _internal 34595 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:52:06,246 _internal 34595 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:52:06,314 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:52:06,656 _internal 34617 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:52:06,662 _internal 34617 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:52:19,805 _internal 34617 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:52:19,867 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:52:20,227 _internal 34634 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:52:20,236 _internal 34634 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:52:26,305 _internal 34634 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:52:26,363 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:52:26,722 _internal 34640 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:52:26,730 _internal 34640 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:52:45,938 _internal 34640 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:52:45,997 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:52:46,359 _internal 34659 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:52:46,365 _internal 34659 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:52:51,426 _internal 34659 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:52:51,490 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:52:51,819 _internal 34667 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:52:51,825 _internal 34667 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:53:02,950 _internal 34667 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:53:03,010 _internal 34208 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:53:03,365 _internal 34678 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:53:03,372 _internal 34678 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:53:51,496 _internal 34721 140735212744704  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2016-11-29 16:53:51,497 _internal 34721 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:53:51,824 _internal 34722 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:53:51,830 _internal 34722 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:53:56,294 routes 34722 123145307557888 First Time Creating Local DB
+INFO 2016-11-29 16:53:56,311 routes 34722 123145307557888 DB Created 
+INFO 2016-11-29 16:53:56,313 _internal 34722 123145307557888 127.0.0.1 - - [29/Nov/2016 16:53:56] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 16:53:56,318 tasks 34722 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 16:53:56,318 tasks 34722 123145312813056 ImmutableMultiDict([('driver_salary', '2,'), ('lpg_cars_no', '1,'), ('disel_cars_no', '1,'), ('avg_maint_cost', '40,'), ('no_of_kms', '20,'), ('disel_price', '40,'), ('avg_disel_maint', '5,'), ('no_of_drivers', '4,'), ('avg_lpg_maint', '1,'), ('total_investment', '10000,'), ('petrol_cars_no', '2,'), ('no_of_days', '20,'), ('petrol_price', '60,'), ('drive_time_per_drver', '8,'), ('areas_no', '2,'), ('avg_petrol_maint', '8,'), ('lpg_price', '5,')])
+DEBUG 2016-11-29 16:53:56,318 tasks 34722 123145312813056 simdata {'no_of_drivers': '4', 'avg_lpg_maint': '1', 'disel_price': '40', 'avg_petrol_maint': '8', 'total_investment': '10000', 'driver_salary': '2', 'petrol_cars_no': '2', 'lpg_cars_no': '1', 'no_of_days': '20', 'petrol_price': '60', 'drive_time_per_drver': '8', 'areas_no': '2', 'avg_maint_cost': '40', 'no_of_kms': '20', 'avg_disel_maint': '5', 'disel_cars_no': '1', 'lpg_price': '5'}
+DEBUG 2016-11-29 16:53:56,321 tasks 34722 123145312813056 added
+DEBUG 2016-11-29 16:53:56,327 tasks 34722 123145312813056 Simulation Done
+DEBUG 2016-11-29 16:53:56,342 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,342 tasks 34722 123145312813056  Total car Cost = 3263.8385122185423
+DEBUG 2016-11-29 16:53:56,349 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,349 tasks 34722 123145312813056  Total car Cost = 3182.826457203685
+DEBUG 2016-11-29 16:53:56,355 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,355 tasks 34722 123145312813056  Total car Cost = 3167.9224163288022
+DEBUG 2016-11-29 16:53:56,359 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,359 tasks 34722 123145312813056  Total car Cost = 3244.565143224413
+DEBUG 2016-11-29 16:53:56,363 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,363 tasks 34722 123145312813056  Total car Cost = 3193.54716596626
+DEBUG 2016-11-29 16:53:56,367 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,367 tasks 34722 123145312813056  Total car Cost = 3169.188703321219
+DEBUG 2016-11-29 16:53:56,371 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,371 tasks 34722 123145312813056  Total car Cost = 3186.122581910573
+DEBUG 2016-11-29 16:53:56,375 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,375 tasks 34722 123145312813056  Total car Cost = 3110.5054973193705
+DEBUG 2016-11-29 16:53:56,380 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,381 tasks 34722 123145312813056  Total car Cost = 3181.2885717883096
+DEBUG 2016-11-29 16:53:56,384 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,384 tasks 34722 123145312813056  Total car Cost = 3193.071221684167
+DEBUG 2016-11-29 16:53:56,388 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,388 tasks 34722 123145312813056  Total car Cost = 3151.7427396482967
+DEBUG 2016-11-29 16:53:56,392 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,393 tasks 34722 123145312813056  Total car Cost = 3293.7680860760975
+DEBUG 2016-11-29 16:53:56,396 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,396 tasks 34722 123145312813056  Total car Cost = 3272.057829409369
+DEBUG 2016-11-29 16:53:56,401 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,401 tasks 34722 123145312813056  Total car Cost = 3264.2601283390727
+DEBUG 2016-11-29 16:53:56,405 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,405 tasks 34722 123145312813056  Total car Cost = 3235.5592598151716
+DEBUG 2016-11-29 16:53:56,409 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,409 tasks 34722 123145312813056  Total car Cost = 3241.1438823034464
+DEBUG 2016-11-29 16:53:56,419 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,419 tasks 34722 123145312813056  Total car Cost = 3194.9149162638146
+DEBUG 2016-11-29 16:53:56,427 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,427 tasks 34722 123145312813056  Total car Cost = 3223.3693609833385
+DEBUG 2016-11-29 16:53:56,438 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,438 tasks 34722 123145312813056  Total car Cost = 3153.3068958692966
+DEBUG 2016-11-29 16:53:56,444 tasks 34722 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:53:56,444 tasks 34722 123145312813056  Total car Cost = 3219.0703200651224
+DEBUG 2016-11-29 16:54:05,963 routes 34722 123145307557888 ---> <SimulationTask 1>
+DEBUG 2016-11-29 16:54:05,966 routes 34722 123145307557888 --> Profit -54302.069689738375 
+DEBUG 2016-11-29 16:54:05,966 routes 34722 123145307557888 --> Total investment10000.0 
+DEBUG 2016-11-29 16:54:05,966 routes 34722 123145307557888 ---->[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+DEBUG 2016-11-29 16:54:05,966 routes 34722 123145307557888 ---->[[8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0], [32.638385122185426, 31.82826457203685, 31.679224163288023, 32.445651432244134, 31.9354716596626, 31.691887033212186, 31.86122581910573, 31.105054973193706, 31.812885717883095, 31.93071221684167, 31.51742739648297, 32.93768086076098, 32.72057829409369, 32.642601283390725, 32.355592598151716, 32.411438823034466, 31.949149162638147, 32.23369360983339, 31.533068958692965, 32.19070320065122]]
+INFO 2016-11-29 16:54:06,060 _internal 34722 123145307557888 127.0.0.1 - - [29/Nov/2016 16:54:06] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 16:54:49,494 _internal 34722 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:54:49,560 _internal 34721 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:54:49,904 _internal 34772 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:54:49,909 _internal 34772 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:55:15,154 _internal 34772 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 16:55:15,210 _internal 34721 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:55:15,571 _internal 34794 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:55:15,577 _internal 34794 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:55:40,841 _internal 34794 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:55:40,907 _internal 34721 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:55:41,264 _internal 34818 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:55:41,269 _internal 34818 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:55:47,338 _internal 34818 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 16:55:47,394 _internal 34721 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:55:47,751 _internal 34826 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:55:47,757 _internal 34826 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:55:58,502 _internal 34841 140735212744704  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2016-11-29 16:55:58,502 _internal 34841 140735212744704  * Restarting with stat
+WARNING 2016-11-29 16:55:58,826 _internal 34842 140735212744704  * Debugger is active!
+INFO 2016-11-29 16:55:58,832 _internal 34842 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 16:56:03,830 routes 34842 123145307557888 First Time Creating Local DB
+INFO 2016-11-29 16:56:03,845 routes 34842 123145307557888 DB Created 
+INFO 2016-11-29 16:56:03,848 _internal 34842 123145307557888 127.0.0.1 - - [29/Nov/2016 16:56:03] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 16:56:03,852 tasks 34842 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 16:56:03,852 tasks 34842 123145312813056 ImmutableMultiDict([('avg_petrol_maint', '8,'), ('no_of_days', '20,'), ('driver_salary', '2,'), ('no_of_kms', '20,'), ('disel_price', '40,'), ('total_investment', '10000,'), ('drive_time_per_drver', '8,'), ('disel_cars_no', '1,'), ('petrol_cars_no', '2,'), ('areas_no', '2,'), ('avg_disel_maint', '5,'), ('lpg_cars_no', '1,'), ('avg_lpg_maint', '1,'), ('lpg_price', '5,'), ('no_of_drivers', '4,'), ('avg_maint_cost', '40,'), ('petrol_price', '60,')])
+DEBUG 2016-11-29 16:56:03,853 tasks 34842 123145312813056 simdata {'driver_salary': '2', 'avg_petrol_maint': '8', 'no_of_days': '20', 'lpg_cars_no': '1', 'petrol_cars_no': '2', 'no_of_kms': '20', 'avg_lpg_maint': '1', 'avg_disel_maint': '5', 'disel_price': '40', 'lpg_price': '5', 'total_investment': '10000', 'drive_time_per_drver': '8', 'disel_cars_no': '1', 'no_of_drivers': '4', 'avg_maint_cost': '40', 'petrol_price': '60', 'areas_no': '2'}
+DEBUG 2016-11-29 16:56:03,855 tasks 34842 123145312813056 added
+DEBUG 2016-11-29 16:56:03,860 tasks 34842 123145312813056 Simulation Done
+DEBUG 2016-11-29 16:56:03,871 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,871 tasks 34842 123145312813056  Total car Cost = 3201.7736368140745
+DEBUG 2016-11-29 16:56:03,881 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,881 tasks 34842 123145312813056  Total car Cost = 3264.6742365806986
+DEBUG 2016-11-29 16:56:03,886 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,886 tasks 34842 123145312813056  Total car Cost = 3340.418712582766
+DEBUG 2016-11-29 16:56:03,893 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,893 tasks 34842 123145312813056  Total car Cost = 3301.5216492310774
+DEBUG 2016-11-29 16:56:03,899 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,899 tasks 34842 123145312813056  Total car Cost = 3261.5944620803007
+DEBUG 2016-11-29 16:56:03,904 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,904 tasks 34842 123145312813056  Total car Cost = 3296.2430598207075
+DEBUG 2016-11-29 16:56:03,909 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,909 tasks 34842 123145312813056  Total car Cost = 3236.9080878034224
+DEBUG 2016-11-29 16:56:03,913 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,913 tasks 34842 123145312813056  Total car Cost = 3250.4800852916937
+DEBUG 2016-11-29 16:56:03,917 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,917 tasks 34842 123145312813056  Total car Cost = 3240.2247998634903
+DEBUG 2016-11-29 16:56:03,922 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,922 tasks 34842 123145312813056  Total car Cost = 3206.014015196964
+DEBUG 2016-11-29 16:56:03,925 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,925 tasks 34842 123145312813056  Total car Cost = 3104.889158060914
+DEBUG 2016-11-29 16:56:03,929 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,929 tasks 34842 123145312813056  Total car Cost = 3213.4667897093977
+DEBUG 2016-11-29 16:56:03,933 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,933 tasks 34842 123145312813056  Total car Cost = 3234.38403474459
+DEBUG 2016-11-29 16:56:03,937 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,938 tasks 34842 123145312813056  Total car Cost = 3288.979716522138
+DEBUG 2016-11-29 16:56:03,944 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,944 tasks 34842 123145312813056  Total car Cost = 3238.453455362948
+DEBUG 2016-11-29 16:56:03,951 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,952 tasks 34842 123145312813056  Total car Cost = 3218.452344445375
+DEBUG 2016-11-29 16:56:03,958 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,958 tasks 34842 123145312813056  Total car Cost = 3200.9787299451345
+DEBUG 2016-11-29 16:56:03,969 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,969 tasks 34842 123145312813056  Total car Cost = 3168.495458405629
+DEBUG 2016-11-29 16:56:03,975 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,976 tasks 34842 123145312813056  Total car Cost = 3258.84504553751
+DEBUG 2016-11-29 16:56:03,979 tasks 34842 123145312813056  Total driver_cost = 8.0
+DEBUG 2016-11-29 16:56:03,979 tasks 34842 123145312813056  Total car Cost = 3125.5870188380263
+DEBUG 2016-11-29 16:56:07,300 routes 34842 123145307557888 ---> <SimulationTask 1>
+DEBUG 2016-11-29 16:56:07,304 routes 34842 123145307557888 --> Profit -54812.384496836865 
+DEBUG 2016-11-29 16:56:07,304 routes 34842 123145307557888 --> Total investment10000.0 
+DEBUG 2016-11-29 16:56:07,304 routes 34842 123145307557888 ----> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+DEBUG 2016-11-29 16:56:07,304 routes 34842 123145307557888 ----> [[8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0], [32.017736368140746, 32.646742365806986, 33.40418712582766, 33.01521649231077, 32.615944620803006, 32.96243059820708, 32.369080878034225, 32.50480085291694, 32.402247998634905, 32.06014015196964, 31.048891580609137, 32.134667897093976, 32.3438403474459, 32.88979716522138, 32.38453455362948, 32.184523444453745, 32.00978729945135, 31.68495458405629, 32.5884504553751, 31.255870188380264]]
+INFO 2016-11-29 16:56:07,390 _internal 34842 123145307557888 127.0.0.1 - - [29/Nov/2016 16:56:07] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 19:25:51,910 _internal 42359 140735212744704  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2016-11-29 19:25:51,912 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:25:52,247 _internal 42360 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:25:52,257 _internal 42360 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 19:56:10,076 _internal 42360 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 19:56:10,159 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:56:10,663 _internal 43867 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:56:10,673 _internal 43867 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 19:56:21,791 _internal 43867 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 19:56:21,852 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:56:22,194 _internal 43881 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:56:22,201 _internal 43881 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 19:57:17,745 _internal 43881 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 19:57:17,805 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:57:18,127 _internal 43930 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:57:18,133 _internal 43930 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 19:57:44,401 _internal 43930 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 19:57:44,460 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:57:44,805 _internal 43954 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:57:44,812 _internal 43954 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 19:58:17,134 _internal 43954 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 19:58:17,192 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:58:17,542 _internal 43984 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:58:17,547 _internal 43984 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 19:59:09,069 _internal 43984 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 19:59:09,125 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:59:09,443 _internal 44027 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:59:09,449 _internal 44027 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 19:59:20,571 _internal 44027 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 19:59:20,635 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:59:20,973 _internal 44041 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:59:20,980 _internal 44041 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 19:59:42,175 _internal 44041 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 19:59:42,243 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 19:59:42,582 _internal 44062 140735212744704  * Debugger is active!
+INFO 2016-11-29 19:59:42,588 _internal 44062 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:06:46,803 _internal 44062 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 20:06:46,905 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:06:47,390 _internal 44419 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:06:47,398 _internal 44419 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:07:26,799 _internal 44419 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 20:07:26,864 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:07:27,203 _internal 44455 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:07:27,209 _internal 44455 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:08:05,592 _internal 44455 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 20:08:05,655 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:08:05,995 _internal 44490 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:08:06,003 _internal 44490 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:08:10,049 _internal 44490 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 20:08:10,111 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:08:10,456 _internal 44495 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:08:10,462 _internal 44495 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:08:12,484 _internal 44495 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 20:08:12,552 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:08:12,891 _internal 44501 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:08:12,897 _internal 44501 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:09:00,377 _internal 44501 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 20:09:00,436 _internal 42359 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:09:00,782 _internal 44544 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:09:00,789 _internal 44544 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:10:12,500 _internal 44544 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 20:10:12,557 _internal 42359 140735212744704  * Restarting with stat
+INFO 2016-11-29 20:14:48,751 _internal 44845 140735212744704  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2016-11-29 20:14:48,752 _internal 44845 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:14:49,094 _internal 44846 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:14:49,102 _internal 44846 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:14:58,244 routes 44846 123145307557888 First Time Creating Local DB
+INFO 2016-11-29 20:14:58,261 routes 44846 123145307557888 DB Created 
+DEBUG 2016-11-29 20:14:58,268 routes 44846 123145307557888 ---> None
+INFO 2016-11-29 20:14:58,285 _internal 44846 123145307557888 127.0.0.1 - - [29/Nov/2016 20:14:58] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:15:00,424 _internal 44846 123145307557888 127.0.0.1 - - [29/Nov/2016 20:15:00] "GET /input HTTP/1.1" 200 -
+INFO 2016-11-29 20:15:47,452 _internal 44846 123145307557888 127.0.0.1 - - [29/Nov/2016 20:15:47] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 20:15:47,459 tasks 44846 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 20:15:47,460 tasks 44846 123145312813056 ImmutableMultiDict([('no_of_kms', '20,'), ('total_investment', '10000,'), ('avg_petrol_maint', '8,'), ('driver_salary', '2,'), ('disel_price', '40,'), ('areas_no', '2,'), ('avg_maint_cost', '40,'), ('no_of_days', '20,'), ('disel_cars_no', '1,'), ('avg_disel_maint', '5,'), ('lpg_price', '5,'), ('lpg_cars_no', '1,'), ('petrol_cars_no', '2,'), ('no_of_drivers', '4,'), ('drive_time_per_drver', '8,'), ('petrol_price', '60,'), ('avg_lpg_maint', '1,')])
+DEBUG 2016-11-29 20:15:47,460 tasks 44846 123145312813056 simdata {'avg_disel_maint': '5', 'no_of_kms': '20', 'total_investment': '10000', 'avg_petrol_maint': '8', 'lpg_cars_no': '1', 'lpg_price': '5', 'petrol_price': '60', 'areas_no': '2', 'driver_salary': '2', 'disel_price': '40', 'no_of_drivers': '4', 'drive_time_per_drver': '8', 'avg_maint_cost': '40', 'no_of_days': '20', 'disel_cars_no': '1', 'avg_lpg_maint': '1', 'petrol_cars_no': '2'}
+DEBUG 2016-11-29 20:15:47,460 tasks 44846 123145312813056 added
+DEBUG 2016-11-29 20:15:47,469 tasks 44846 123145312813056 Simulation Done
+DEBUG 2016-11-29 20:15:47,489 tasks 44846 123145312813056       CustomerPay = 3073.482235977681
+DEBUG 2016-11-29 20:15:47,489 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,489 tasks 44846 123145312813056  Total car Cost = 3316.79282265697
+DEBUG 2016-11-29 20:15:47,497 tasks 44846 123145312813056       CustomerPay = 1847.6052090521655
+DEBUG 2016-11-29 20:15:47,497 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,497 tasks 44846 123145312813056  Total car Cost = 3195.685941633697
+DEBUG 2016-11-29 20:15:47,502 tasks 44846 123145312813056       CustomerPay = 2300.1635771203296
+DEBUG 2016-11-29 20:15:47,502 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,503 tasks 44846 123145312813056  Total car Cost = 3220.359806623134
+DEBUG 2016-11-29 20:15:47,508 tasks 44846 123145312813056       CustomerPay = 2075.60073907137
+DEBUG 2016-11-29 20:15:47,508 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,508 tasks 44846 123145312813056  Total car Cost = 3101.5726970678606
+DEBUG 2016-11-29 20:15:47,514 tasks 44846 123145312813056       CustomerPay = 2262.8680394415856
+DEBUG 2016-11-29 20:15:47,514 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,514 tasks 44846 123145312813056  Total car Cost = 3301.1413146382283
+DEBUG 2016-11-29 20:15:47,519 tasks 44846 123145312813056       CustomerPay = 2217.932404534135
+DEBUG 2016-11-29 20:15:47,519 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,520 tasks 44846 123145312813056  Total car Cost = 3134.2285633427273
+DEBUG 2016-11-29 20:15:47,525 tasks 44846 123145312813056       CustomerPay = 2709.490505437186
+DEBUG 2016-11-29 20:15:47,525 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,526 tasks 44846 123145312813056  Total car Cost = 3286.8867698517665
+DEBUG 2016-11-29 20:15:47,532 tasks 44846 123145312813056       CustomerPay = 2535.8206246425398
+DEBUG 2016-11-29 20:15:47,532 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,532 tasks 44846 123145312813056  Total car Cost = 3240.550411336317
+DEBUG 2016-11-29 20:15:47,537 tasks 44846 123145312813056       CustomerPay = 2542.409718348609
+DEBUG 2016-11-29 20:15:47,537 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,538 tasks 44846 123145312813056  Total car Cost = 3211.609339066232
+DEBUG 2016-11-29 20:15:47,542 tasks 44846 123145312813056       CustomerPay = 2234.0594390607453
+DEBUG 2016-11-29 20:15:47,543 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,543 tasks 44846 123145312813056  Total car Cost = 3214.2276016709493
+DEBUG 2016-11-29 20:15:47,547 tasks 44846 123145312813056       CustomerPay = 2278.3171604469126
+DEBUG 2016-11-29 20:15:47,547 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,547 tasks 44846 123145312813056  Total car Cost = 3208.427205967149
+DEBUG 2016-11-29 20:15:47,551 tasks 44846 123145312813056       CustomerPay = 2563.329708557204
+DEBUG 2016-11-29 20:15:47,551 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,552 tasks 44846 123145312813056  Total car Cost = 3315.899728242754
+DEBUG 2016-11-29 20:15:47,557 tasks 44846 123145312813056       CustomerPay = 1818.1531801703156
+DEBUG 2016-11-29 20:15:47,557 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,557 tasks 44846 123145312813056  Total car Cost = 3346.211014038283
+DEBUG 2016-11-29 20:15:47,563 tasks 44846 123145312813056       CustomerPay = 2972.2079582465203
+DEBUG 2016-11-29 20:15:47,563 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,563 tasks 44846 123145312813056  Total car Cost = 3251.9475768783855
+DEBUG 2016-11-29 20:15:47,569 tasks 44846 123145312813056       CustomerPay = 2309.518366831463
+DEBUG 2016-11-29 20:15:47,570 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,570 tasks 44846 123145312813056  Total car Cost = 3251.9546612850254
+DEBUG 2016-11-29 20:15:47,575 tasks 44846 123145312813056       CustomerPay = 2069.5591779874176
+DEBUG 2016-11-29 20:15:47,575 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,576 tasks 44846 123145312813056  Total car Cost = 3252.621169735337
+DEBUG 2016-11-29 20:15:47,581 tasks 44846 123145312813056       CustomerPay = 2138.8713999710653
+DEBUG 2016-11-29 20:15:47,581 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,581 tasks 44846 123145312813056  Total car Cost = 3247.1324095045725
+DEBUG 2016-11-29 20:15:47,586 tasks 44846 123145312813056       CustomerPay = 3069.7294215171078
+DEBUG 2016-11-29 20:15:47,587 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,587 tasks 44846 123145312813056  Total car Cost = 3161.430076368241
+DEBUG 2016-11-29 20:15:47,591 tasks 44846 123145312813056       CustomerPay = 2496.355934724048
+DEBUG 2016-11-29 20:15:47,591 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,591 tasks 44846 123145312813056  Total car Cost = 3149.0747033668003
+DEBUG 2016-11-29 20:15:47,596 tasks 44846 123145312813056       CustomerPay = 2534.2891544537797
+DEBUG 2016-11-29 20:15:47,596 tasks 44846 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:15:47,596 tasks 44846 123145312813056  Total car Cost = 3291.9869884039044
+DEBUG 2016-11-29 20:15:47,750 routes 44846 123145307557888 ---> <SimulationTask 1>
+DEBUG 2016-11-29 20:15:47,755 routes 44846 123145307557888 --> Profit -55979.74080167833 
+DEBUG 2016-11-29 20:15:47,755 routes 44846 123145307557888 --> Total investment10000.0 
+DEBUG 2016-11-29 20:15:47,755 routes 44846 123145307557888 ----> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+DEBUG 2016-11-29 20:15:47,755 routes 44846 123145307557888 ----> [[64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0], [33.1679282265697, 31.956859416336968, 32.203598066231336, 31.015726970678607, 33.01141314638228, 31.342285633427274, 32.86886769851767, 32.40550411336317, 32.11609339066232, 32.142276016709495, 32.08427205967149, 33.15899728242754, 33.462110140382826, 32.519475768783856, 32.519546612850256, 32.52621169735337, 32.47132409504572, 31.614300763682408, 31.490747033668004, 32.919869884039045]]
+INFO 2016-11-29 20:15:47,803 _internal 44846 123145307557888 127.0.0.1 - - [29/Nov/2016 20:15:47] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:17:01,521 _internal 44846 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:17:01,585 _internal 44845 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:17:02,053 _internal 44973 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:17:02,060 _internal 44973 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:17:40,457 _internal 44973 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:17:40,518 _internal 44845 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:17:41,017 _internal 45006 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:17:41,023 _internal 45006 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:17:50,126 _internal 45006 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:17:50,190 _internal 44845 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:17:50,553 _internal 45017 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:17:50,559 _internal 45017 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:18:09,759 _internal 45017 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:18:09,820 _internal 44845 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:18:10,158 _internal 45036 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:18:10,164 _internal 45036 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:18:16,226 _internal 45036 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:18:16,296 _internal 44845 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:18:16,667 _internal 45047 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:18:16,676 _internal 45047 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:18:20,779 routes 45047 123145307557888 First Time Creating Local DB
+INFO 2016-11-29 20:18:20,791 routes 45047 123145307557888 DB Created 
+DEBUG 2016-11-29 20:18:20,798 routes 45047 123145307557888 ---> None
+INFO 2016-11-29 20:18:20,813 _internal 45047 123145307557888 127.0.0.1 - - [29/Nov/2016 20:18:20] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:19:33,300 _internal 45047 123145307557888 127.0.0.1 - - [29/Nov/2016 20:19:33] "POST /simulation HTTP/1.1" 200 -
+INFO 2016-11-29 20:19:33,302 _internal 45047 123145307557888 127.0.0.1 - - [29/Nov/2016 20:19:33] "POST /simulation HTTP/1.1" 200 -
+INFO 2016-11-29 20:19:33,304 _internal 45047 123145307557888 127.0.0.1 - - [29/Nov/2016 20:19:33] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 20:19:33,317 tasks 45047 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 20:19:33,317 tasks 45047 123145312813056 ImmutableMultiDict([('lpg_price', '5,'), ('areas_no', '2,'), ('disel_price', '40,'), ('lpg_cars_no', '1,'), ('disel_cars_no', '1,'), ('avg_maint_cost', '40,'), ('no_of_drivers', '4,'), ('drive_time_per_drver', '8,'), ('avg_lpg_maint', '1,'), ('avg_disel_maint', '5,'), ('petrol_price', '60,'), ('no_of_kms', '20,'), ('total_investment', '10000,'), ('petrol_cars_no', '2,'), ('avg_petrol_maint', '8,'), ('no_of_days', '20,'), ('driver_salary', '2,')])
+DEBUG 2016-11-29 20:19:33,318 tasks 45047 123145312813056 simdata {'lpg_price': '5', 'areas_no': '2', 'disel_price': '40', 'lpg_cars_no': '1', 'disel_cars_no': '1', 'total_investment': '10000', 'petrol_cars_no': '2', 'avg_maint_cost': '40', 'avg_petrol_maint': '8', 'no_of_days': '20', 'driver_salary': '2', 'no_of_drivers': '4', 'drive_time_per_drver': '8', 'avg_lpg_maint': '1', 'avg_disel_maint': '5', 'petrol_price': '60', 'no_of_kms': '20'}
+DEBUG 2016-11-29 20:19:33,318 tasks 45047 123145312813056 added
+DEBUG 2016-11-29 20:19:33,354 tasks 45047 123145312813056 Simulation Done
+INFO 2016-11-29 20:19:33,386 _internal 45047 123145307557888 127.0.0.1 - - [29/Nov/2016 20:19:33] "GET /input HTTP/1.1" 200 -
+DEBUG 2016-11-29 20:19:33,396 tasks 45047 123145312813056       CustomerPay = 2562.435722069709
+DEBUG 2016-11-29 20:19:33,396 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,396 tasks 45047 123145312813056  Total car Cost = 3132.601453445183
+DEBUG 2016-11-29 20:19:33,404 tasks 45047 123145312813056       CustomerPay = 2272.884670846219
+DEBUG 2016-11-29 20:19:33,404 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,404 tasks 45047 123145312813056  Total car Cost = 3260.818349224907
+DEBUG 2016-11-29 20:19:33,412 tasks 45047 123145312813056       CustomerPay = 1947.7932376623908
+DEBUG 2016-11-29 20:19:33,413 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,414 tasks 45047 123145312813056  Total car Cost = 3163.0378721645775
+DEBUG 2016-11-29 20:19:33,423 tasks 45047 123145312813056       CustomerPay = 1683.6161883950456
+DEBUG 2016-11-29 20:19:33,424 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,424 tasks 45047 123145312813056  Total car Cost = 3118.576729616015
+DEBUG 2016-11-29 20:19:33,430 tasks 45047 123145312813056       CustomerPay = 1904.0925553474876
+DEBUG 2016-11-29 20:19:33,431 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,431 tasks 45047 123145312813056  Total car Cost = 3289.5060243668017
+DEBUG 2016-11-29 20:19:33,438 tasks 45047 123145312813056       CustomerPay = 1642.9240588505231
+DEBUG 2016-11-29 20:19:33,439 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,439 tasks 45047 123145312813056  Total car Cost = 3273.0076686357556
+DEBUG 2016-11-29 20:19:33,458 tasks 45047 123145312813056       CustomerPay = 1697.6995524442327
+DEBUG 2016-11-29 20:19:33,458 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,459 tasks 45047 123145312813056  Total car Cost = 3262.723099187126
+DEBUG 2016-11-29 20:19:33,468 tasks 45047 123145312813056       CustomerPay = 1662.6152661507879
+DEBUG 2016-11-29 20:19:33,468 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,468 tasks 45047 123145312813056  Total car Cost = 3253.842376525704
+DEBUG 2016-11-29 20:19:33,476 tasks 45047 123145312813056       CustomerPay = 2152.378180599111
+DEBUG 2016-11-29 20:19:33,476 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,476 tasks 45047 123145312813056  Total car Cost = 3222.703537214578
+DEBUG 2016-11-29 20:19:33,482 tasks 45047 123145312813056       CustomerPay = 1916.7746519209113
+DEBUG 2016-11-29 20:19:33,482 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,482 tasks 45047 123145312813056  Total car Cost = 3296.943804441144
+DEBUG 2016-11-29 20:19:33,488 tasks 45047 123145312813056       CustomerPay = 1986.536512973381
+DEBUG 2016-11-29 20:19:33,489 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,489 tasks 45047 123145312813056  Total car Cost = 3310.4474666007595
+DEBUG 2016-11-29 20:19:33,496 tasks 45047 123145312813056       CustomerPay = 1665.3502432273888
+DEBUG 2016-11-29 20:19:33,496 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,496 tasks 45047 123145312813056  Total car Cost = 3201.161411553988
+DEBUG 2016-11-29 20:19:33,500 tasks 45047 123145312813056       CustomerPay = 3041.4475784441247
+DEBUG 2016-11-29 20:19:33,500 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,501 tasks 45047 123145312813056  Total car Cost = 3158.454864388692
+DEBUG 2016-11-29 20:19:33,509 tasks 45047 123145312813056       CustomerPay = 2145.7228391188437
+DEBUG 2016-11-29 20:19:33,510 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,510 tasks 45047 123145312813056  Total car Cost = 3200.3923179805706
+DEBUG 2016-11-29 20:19:33,513 tasks 45047 123145312813056       CustomerPay = 1967.2359364828592
+DEBUG 2016-11-29 20:19:33,514 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,514 tasks 45047 123145312813056  Total car Cost = 3259.105244065226
+DEBUG 2016-11-29 20:19:33,518 tasks 45047 123145312813056       CustomerPay = 2326.780064510414
+DEBUG 2016-11-29 20:19:33,518 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,518 tasks 45047 123145312813056  Total car Cost = 3181.1657297133984
+DEBUG 2016-11-29 20:19:33,522 tasks 45047 123145312813056       CustomerPay = 2678.612841709226
+DEBUG 2016-11-29 20:19:33,522 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,522 tasks 45047 123145312813056  Total car Cost = 3258.2557021710013
+DEBUG 2016-11-29 20:19:33,526 tasks 45047 123145312813056       CustomerPay = 2060.5176933622465
+DEBUG 2016-11-29 20:19:33,526 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,526 tasks 45047 123145312813056  Total car Cost = 3207.269102808109
+DEBUG 2016-11-29 20:19:33,532 tasks 45047 123145312813056       CustomerPay = 1800.887473587661
+DEBUG 2016-11-29 20:19:33,532 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,532 tasks 45047 123145312813056  Total car Cost = 3147.3912432890234
+DEBUG 2016-11-29 20:19:33,538 tasks 45047 123145312813056       CustomerPay = 2155.201377747261
+DEBUG 2016-11-29 20:19:33,539 tasks 45047 123145312813056  Total driver_cost = 64.0
+DEBUG 2016-11-29 20:19:33,539 tasks 45047 123145312813056  Total car Cost = 3238.578752232232
+INFO 2016-11-29 20:20:13,305 _internal 45047 123145307557888 127.0.0.1 - - [29/Nov/2016 20:20:13] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 20:20:13,311 tasks 45047 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 20:20:13,311 tasks 45047 123145312813056 ImmutableMultiDict([('lpg_price', '5'), ('areas_no', '2'), ('disel_price', '40'), ('lpg_cars_no', '2'), ('disel_cars_no', '3'), ('avg_maint_cost', '12'), ('no_of_drivers', '5'), ('drive_time_per_drver', '8'), ('avg_lpg_maint', '12'), ('avg_disel_maint', '10'), ('petrol_price', '60'), ('no_of_kms', '40'), ('total_investment', '121212'), ('petrol_cars_no', '2'), ('avg_petrol_maint', '15'), ('no_of_days', '12'), ('driver_salary', '13')])
+DEBUG 2016-11-29 20:20:13,311 tasks 45047 123145312813056 simdata {'lpg_price': '5', 'areas_no': '2', 'disel_price': '40', 'lpg_cars_no': '2', 'disel_cars_no': '3', 'total_investment': '121212', 'petrol_cars_no': '2', 'avg_maint_cost': '12', 'avg_petrol_maint': '15', 'no_of_days': '12', 'driver_salary': '13', 'no_of_drivers': '5', 'drive_time_per_drver': '8', 'avg_lpg_maint': '12', 'avg_disel_maint': '10', 'petrol_price': '60', 'no_of_kms': '40'}
+DEBUG 2016-11-29 20:20:13,312 tasks 45047 123145312813056 added
+DEBUG 2016-11-29 20:20:13,315 tasks 45047 123145312813056 Simulation Done
+DEBUG 2016-11-29 20:20:13,331 tasks 45047 123145312813056       CustomerPay = 2453.987040003897
+DEBUG 2016-11-29 20:20:13,331 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,331 tasks 45047 123145312813056  Total car Cost = 8069.416795545572
+DEBUG 2016-11-29 20:20:13,338 tasks 45047 123145312813056       CustomerPay = 2065.883067288791
+DEBUG 2016-11-29 20:20:13,338 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,338 tasks 45047 123145312813056  Total car Cost = 7629.228549541778
+DEBUG 2016-11-29 20:20:13,343 tasks 45047 123145312813056       CustomerPay = 3729.92920047217
+DEBUG 2016-11-29 20:20:13,343 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,343 tasks 45047 123145312813056  Total car Cost = 7669.453647172017
+DEBUG 2016-11-29 20:20:13,348 tasks 45047 123145312813056       CustomerPay = 3551.45434649456
+DEBUG 2016-11-29 20:20:13,349 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,349 tasks 45047 123145312813056  Total car Cost = 7604.64423835949
+DEBUG 2016-11-29 20:20:13,355 tasks 45047 123145312813056       CustomerPay = 2743.5349980021324
+DEBUG 2016-11-29 20:20:13,355 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,355 tasks 45047 123145312813056  Total car Cost = 8019.444509651958
+DEBUG 2016-11-29 20:20:13,360 tasks 45047 123145312813056       CustomerPay = 3194.7498109795647
+DEBUG 2016-11-29 20:20:13,360 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,360 tasks 45047 123145312813056  Total car Cost = 7919.31285224893
+DEBUG 2016-11-29 20:20:13,364 tasks 45047 123145312813056       CustomerPay = 2928.909719949769
+DEBUG 2016-11-29 20:20:13,364 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,364 tasks 45047 123145312813056  Total car Cost = 7538.0997806437235
+DEBUG 2016-11-29 20:20:13,367 tasks 45047 123145312813056       CustomerPay = 2028.467496343709
+DEBUG 2016-11-29 20:20:13,368 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,368 tasks 45047 123145312813056  Total car Cost = 7989.716367698674
+DEBUG 2016-11-29 20:20:13,373 tasks 45047 123145312813056       CustomerPay = 2526.7436503492
+DEBUG 2016-11-29 20:20:13,373 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,374 tasks 45047 123145312813056  Total car Cost = 7746.840124366923
+DEBUG 2016-11-29 20:20:13,379 tasks 45047 123145312813056       CustomerPay = 3439.7783237173985
+DEBUG 2016-11-29 20:20:13,379 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,379 tasks 45047 123145312813056  Total car Cost = 7964.748286953611
+DEBUG 2016-11-29 20:20:13,385 tasks 45047 123145312813056       CustomerPay = 2626.7954068042877
+DEBUG 2016-11-29 20:20:13,385 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,385 tasks 45047 123145312813056  Total car Cost = 8012.144438288011
+DEBUG 2016-11-29 20:20:13,390 tasks 45047 123145312813056       CustomerPay = 2403.460968411674
+DEBUG 2016-11-29 20:20:13,390 tasks 45047 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:20:13,390 tasks 45047 123145312813056  Total car Cost = 8051.388852374627
+DEBUG 2016-11-29 20:20:24,095 routes 45047 123145307557888 ---> <SimulationTask 1>
+DEBUG 2016-11-29 20:20:24,098 routes 45047 123145307557888 --> Profit 54451.25558597183 
+DEBUG 2016-11-29 20:20:24,098 routes 45047 123145307557888 --> Total investment121212.0 
+DEBUG 2016-11-29 20:20:24,098 routes 45047 123145307557888 ----> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+DEBUG 2016-11-29 20:20:24,098 routes 45047 123145307557888 ----> [[520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0], [80.69416795545573, 76.29228549541779, 76.69453647172017, 76.04644238359491, 80.19444509651957, 79.1931285224893, 75.38099780643724, 79.89716367698674, 77.46840124366923, 79.6474828695361, 80.12144438288011, 80.51388852374627]]
+INFO 2016-11-29 20:20:24,118 _internal 45047 123145307557888 127.0.0.1 - - [29/Nov/2016 20:20:24] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:22:14,087 _internal 45047 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:22:14,160 _internal 44845 140735212744704  * Restarting with stat
+INFO 2016-11-29 20:22:46,314 _internal 45274 140735212744704  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2016-11-29 20:22:46,315 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:22:46,665 _internal 45275 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:22:46,674 _internal 45275 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:22:51,644 routes 45275 123145307557888 First Time Creating Local DB
+INFO 2016-11-29 20:22:51,653 routes 45275 123145307557888 DB Created 
+DEBUG 2016-11-29 20:22:51,664 routes 45275 123145307557888 ---> None
+INFO 2016-11-29 20:22:51,681 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:22:51,704 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET /static/adminlte/css/bootstrap.min.css?adminlte=2.3.3 HTTP/1.1" 304 -
+INFO 2016-11-29 20:22:51,709 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET /static/adminlte/css/font-awesome.min.css?adminlte=2.3.3 HTTP/1.1" 304 -
+INFO 2016-11-29 20:22:51,713 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET /static/adminlte/css/ionicons.min.css?adminlte=2.3.3 HTTP/1.1" 304 -
+INFO 2016-11-29 20:22:51,718 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET /static/adminlte/css/AdminLTE.css?adminlte=2.3.3 HTTP/1.1" 304 -
+INFO 2016-11-29 20:22:51,721 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET /static/adminlte/css/skins/skin-blue.min.css?adminlte=2.3.3 HTTP/1.1" 304 -
+INFO 2016-11-29 20:22:51,775 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET /static/adminlte/js/bootstrap.min.js?adminlte=2.3.3 HTTP/1.1" 304 -
+INFO 2016-11-29 20:22:51,780 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET /static/adminlte/js/AdminLTE/app.js?adminlte=2.3.3 HTTP/1.1" 304 -
+INFO 2016-11-29 20:22:51,785 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:51] "GET /static/img/taxi.png HTTP/1.1" 304 -
+INFO 2016-11-29 20:22:53,812 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:53] "GET /input HTTP/1.1" 200 -
+INFO 2016-11-29 20:22:54,011 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:22:54] "GET /static/adminlte/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 -
+INFO 2016-11-29 20:23:25,643 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:23:25] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 20:23:25,650 tasks 45275 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 20:23:25,651 tasks 45275 123145312813056 ImmutableMultiDict([('avg_maint_cost', '12'), ('lpg_cars_no', '1'), ('no_of_kms', '40'), ('avg_disel_maint', '10'), ('avg_petrol_maint', '15'), ('no_of_days', '12'), ('disel_cars_no', '2'), ('disel_price', '40'), ('drive_time_per_drver', '8'), ('no_of_drivers', '5'), ('areas_no', '2'), ('driver_salary', '13'), ('total_investment', '121212'), ('lpg_price', '5'), ('avg_lpg_maint', '12'), ('petrol_price', '60'), ('petrol_cars_no', '2')])
+DEBUG 2016-11-29 20:23:25,651 tasks 45275 123145312813056 simdata {'avg_petrol_maint': '15', 'avg_maint_cost': '12', 'lpg_cars_no': '1', 'no_of_kms': '40', 'avg_disel_maint': '10', 'no_of_drivers': '5', 'areas_no': '2', 'drive_time_per_drver': '8', 'driver_salary': '13', 'total_investment': '121212', 'no_of_days': '12', 'lpg_price': '5', 'disel_cars_no': '2', 'avg_lpg_maint': '12', 'disel_price': '40', 'petrol_price': '60', 'petrol_cars_no': '2'}
+DEBUG 2016-11-29 20:23:25,651 tasks 45275 123145312813056 added
+DEBUG 2016-11-29 20:23:25,656 tasks 45275 123145312813056 Simulation Done
+DEBUG 2016-11-29 20:23:25,667 tasks 45275 123145312813056       CustomerPay = 2003.9795478694234
+DEBUG 2016-11-29 20:23:25,668 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,668 tasks 45275 123145312813056  Total car Cost = 7242.47052722981
+DEBUG 2016-11-29 20:23:25,675 tasks 45275 123145312813056       CustomerPay = 2678.424250451763
+DEBUG 2016-11-29 20:23:25,675 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,676 tasks 45275 123145312813056  Total car Cost = 6923.372483475512
+DEBUG 2016-11-29 20:23:25,680 tasks 45275 123145312813056       CustomerPay = 3910.6853875378865
+DEBUG 2016-11-29 20:23:25,680 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,680 tasks 45275 123145312813056  Total car Cost = 6960.378694034185
+DEBUG 2016-11-29 20:23:25,686 tasks 45275 123145312813056       CustomerPay = 2193.186898243239
+DEBUG 2016-11-29 20:23:25,686 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,687 tasks 45275 123145312813056  Total car Cost = 7129.776226396674
+DEBUG 2016-11-29 20:23:25,693 tasks 45275 123145312813056       CustomerPay = 2600.7507465363115
+DEBUG 2016-11-29 20:23:25,693 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,693 tasks 45275 123145312813056  Total car Cost = 7088.452281933762
+DEBUG 2016-11-29 20:23:25,698 tasks 45275 123145312813056       CustomerPay = 3556.213992772665
+DEBUG 2016-11-29 20:23:25,698 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,698 tasks 45275 123145312813056  Total car Cost = 7020.960045370971
+DEBUG 2016-11-29 20:23:25,704 tasks 45275 123145312813056       CustomerPay = 2597.811571298278
+DEBUG 2016-11-29 20:23:25,704 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,704 tasks 45275 123145312813056  Total car Cost = 7029.125037898984
+DEBUG 2016-11-29 20:23:25,712 tasks 45275 123145312813056       CustomerPay = 2765.355120235773
+DEBUG 2016-11-29 20:23:25,713 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,713 tasks 45275 123145312813056  Total car Cost = 6767.8069409922755
+DEBUG 2016-11-29 20:23:25,720 tasks 45275 123145312813056       CustomerPay = 3353.699342318024
+DEBUG 2016-11-29 20:23:25,720 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,720 tasks 45275 123145312813056  Total car Cost = 7241.320848024255
+DEBUG 2016-11-29 20:23:25,725 tasks 45275 123145312813056       CustomerPay = 2370.2735574080125
+DEBUG 2016-11-29 20:23:25,725 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,725 tasks 45275 123145312813056  Total car Cost = 6970.899563515451
+DEBUG 2016-11-29 20:23:25,729 tasks 45275 123145312813056       CustomerPay = 2410.960945811887
+DEBUG 2016-11-29 20:23:25,729 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,729 tasks 45275 123145312813056  Total car Cost = 7134.508108206803
+DEBUG 2016-11-29 20:23:25,733 tasks 45275 123145312813056       CustomerPay = 2330.1574172292885
+DEBUG 2016-11-29 20:23:25,733 tasks 45275 123145312813056  Total driver_cost = 520.0
+DEBUG 2016-11-29 20:23:25,733 tasks 45275 123145312813056  Total car Cost = 7034.703662109054
+DEBUG 2016-11-29 20:23:37,980 routes 45275 123145307557888 ---> <SimulationTask 1>
+DEBUG 2016-11-29 20:23:37,983 routes 45275 123145307557888 --> Profit 63199.72435852481 
+DEBUG 2016-11-29 20:23:37,984 routes 45275 123145307557888 --> Total investment121212.0 
+DEBUG 2016-11-29 20:23:37,984 routes 45275 123145307557888 ----> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+DEBUG 2016-11-29 20:23:37,984 routes 45275 123145307557888 ----> [[520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0, 520.0], [72.4247052722981, 69.23372483475512, 69.60378694034185, 71.29776226396675, 70.88452281933762, 70.20960045370971, 70.29125037898984, 67.67806940992276, 72.41320848024255, 69.70899563515451, 71.34508108206802, 70.34703662109054]]
+INFO 2016-11-29 20:23:38,006 _internal 45275 123145307557888 127.0.0.1 - - [29/Nov/2016 20:23:38] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:25:02,103 _internal 45275 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:25:02,167 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:25:02,517 _internal 45386 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:25:02,524 _internal 45386 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:25:33,841 _internal 45386 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:25:33,906 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:25:34,262 _internal 45416 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:25:34,268 _internal 45416 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:26:11,632 _internal 45416 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:26:11,689 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:26:12,058 _internal 45448 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:26:12,065 _internal 45448 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:26:13,080 _internal 45448 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:26:13,138 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:26:13,493 _internal 45453 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:26:13,499 _internal 45453 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:26:14,515 _internal 45453 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:26:14,577 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:26:14,940 _internal 45456 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:26:14,946 _internal 45456 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:26:37,903 routes 45456 123145307557888 First Time Creating Local DB
+INFO 2016-11-29 20:26:37,913 routes 45456 123145307557888 DB Created 
+DEBUG 2016-11-29 20:26:37,922 routes 45456 123145307557888 ---> None
+INFO 2016-11-29 20:26:37,938 _internal 45456 123145307557888 127.0.0.1 - - [29/Nov/2016 20:26:37] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:26:40,498 _internal 45456 123145307557888 127.0.0.1 - - [29/Nov/2016 20:26:40] "GET /input HTTP/1.1" 200 -
+INFO 2016-11-29 20:27:13,768 _internal 45456 123145307557888 127.0.0.1 - - [29/Nov/2016 20:27:13] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 20:27:13,775 tasks 45456 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 20:27:13,775 tasks 45456 123145312813056 ImmutableMultiDict([('no_of_drivers', '15'), ('lpg_cars_no', '2'), ('drive_time_per_drver', '12'), ('driver_salary', '13'), ('avg_disel_maint', '10'), ('disel_cars_no', '2'), ('petrol_price', '60'), ('avg_maint_cost', '12'), ('no_of_kms', '40'), ('petrol_cars_no', '2'), ('no_of_days', '12'), ('areas_no', '12'), ('total_investment', '121212'), ('disel_price', '40'), ('avg_lpg_maint', '12'), ('lpg_price', '5'), ('avg_petrol_maint', '15')])
+DEBUG 2016-11-29 20:27:13,775 tasks 45456 123145312813056 simdata {'no_of_drivers': '15', 'avg_maint_cost': '12', 'no_of_kms': '40', 'disel_cars_no': '2', 'lpg_cars_no': '2', 'drive_time_per_drver': '12', 'petrol_cars_no': '2', 'no_of_days': '12', 'avg_lpg_maint': '12', 'driver_salary': '13', 'areas_no': '12', 'total_investment': '121212', 'disel_price': '40', 'avg_disel_maint': '10', 'petrol_price': '60', 'lpg_price': '5', 'avg_petrol_maint': '15'}
+DEBUG 2016-11-29 20:27:13,776 tasks 45456 123145312813056 added
+DEBUG 2016-11-29 20:27:13,780 tasks 45456 123145312813056 Simulation Done
+DEBUG 2016-11-29 20:27:13,790 tasks 45456 123145312813056       CustomerPay = 10202.520992079748
+DEBUG 2016-11-29 20:27:13,791 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,791 tasks 45456 123145312813056  Total car Cost = 36426.391686546835
+DEBUG 2016-11-29 20:27:13,796 tasks 45456 123145312813056       CustomerPay = 12829.1300679686
+DEBUG 2016-11-29 20:27:13,796 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,796 tasks 45456 123145312813056  Total car Cost = 35743.00461109953
+DEBUG 2016-11-29 20:27:13,801 tasks 45456 123145312813056       CustomerPay = 16499.715056612084
+DEBUG 2016-11-29 20:27:13,801 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,801 tasks 45456 123145312813056  Total car Cost = 36284.144993607166
+DEBUG 2016-11-29 20:27:13,807 tasks 45456 123145312813056       CustomerPay = 10867.223236685131
+DEBUG 2016-11-29 20:27:13,807 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,807 tasks 45456 123145312813056  Total car Cost = 37184.75890253369
+DEBUG 2016-11-29 20:27:13,813 tasks 45456 123145312813056       CustomerPay = 11238.575906728896
+DEBUG 2016-11-29 20:27:13,814 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,814 tasks 45456 123145312813056  Total car Cost = 36159.5042130148
+DEBUG 2016-11-29 20:27:13,817 tasks 45456 123145312813056       CustomerPay = 13270.695817896405
+DEBUG 2016-11-29 20:27:13,818 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,818 tasks 45456 123145312813056  Total car Cost = 36034.72481227017
+DEBUG 2016-11-29 20:27:13,821 tasks 45456 123145312813056       CustomerPay = 10812.784896081079
+DEBUG 2016-11-29 20:27:13,822 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,822 tasks 45456 123145312813056  Total car Cost = 35716.463778064004
+DEBUG 2016-11-29 20:27:13,825 tasks 45456 123145312813056       CustomerPay = 15386.355957098878
+DEBUG 2016-11-29 20:27:13,825 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,826 tasks 45456 123145312813056  Total car Cost = 36525.37826728562
+DEBUG 2016-11-29 20:27:13,830 tasks 45456 123145312813056       CustomerPay = 9575.24673338209
+DEBUG 2016-11-29 20:27:13,830 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,830 tasks 45456 123145312813056  Total car Cost = 37394.17686070689
+DEBUG 2016-11-29 20:27:13,836 tasks 45456 123145312813056       CustomerPay = 9423.843483499802
+DEBUG 2016-11-29 20:27:13,836 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,836 tasks 45456 123145312813056  Total car Cost = 37005.73092092846
+DEBUG 2016-11-29 20:27:13,842 tasks 45456 123145312813056       CustomerPay = 13058.228422278375
+DEBUG 2016-11-29 20:27:13,842 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,843 tasks 45456 123145312813056  Total car Cost = 36698.0523245684
+DEBUG 2016-11-29 20:27:13,847 tasks 45456 123145312813056       CustomerPay = 14605.775414412296
+DEBUG 2016-11-29 20:27:13,848 tasks 45456 123145312813056  Total driver_cost = 2340.0
+DEBUG 2016-11-29 20:27:13,848 tasks 45456 123145312813056  Total car Cost = 35444.790953137104
+DEBUG 2016-11-29 20:27:18,372 routes 45456 123145307557888 ---> <SimulationTask 1>
+DEBUG 2016-11-29 20:27:18,375 routes 45456 123145307557888 --> Profit -195715.02633903926 
+DEBUG 2016-11-29 20:27:18,375 routes 45456 123145307557888 --> Total investment121212.0 
+DEBUG 2016-11-29 20:27:18,376 routes 45456 123145307557888 ----> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+DEBUG 2016-11-29 20:27:18,376 routes 45456 123145307557888 ----> [[2340.0, 2340.0, 2340.0, 2340.0, 2340.0, 2340.0, 2340.0, 2340.0, 2340.0, 2340.0, 2340.0, 2340.0], [364.26391686546833, 357.4300461109953, 362.8414499360717, 371.8475890253369, 361.595042130148, 360.3472481227017, 357.16463778064, 365.2537826728562, 373.94176860706887, 370.0573092092846, 366.980523245684, 354.44790953137107]]
+INFO 2016-11-29 20:27:18,399 _internal 45456 123145307557888 127.0.0.1 - - [29/Nov/2016 20:27:18] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:28:19,197 _internal 45456 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/models.py', reloading
+INFO 2016-11-29 20:28:19,266 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:28:19,722 _internal 45561 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:28:19,730 _internal 45561 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:28:21,760 _internal 45561 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/tasks.py', reloading
+INFO 2016-11-29 20:28:21,819 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:28:22,163 _internal 45567 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:28:22,169 _internal 45567 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:28:30,265 _internal 45567 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:28:30,329 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:28:30,681 _internal 45575 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:28:30,688 _internal 45575 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:28:55,938 _internal 45575 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:28:55,999 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:28:56,348 _internal 45602 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:28:56,355 _internal 45602 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:29:03,433 _internal 45602 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:29:03,495 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:29:03,836 _internal 45608 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:29:03,842 _internal 45608 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:30:05,465 _internal 45608 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:30:05,528 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:30:05,873 _internal 45665 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:30:05,880 _internal 45665 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:30:10,937 _internal 45665 140735212744704  * Detected change in '/Users/tamilselvan/Documents/Programs/Python/Web/flask/rido/routes.py', reloading
+INFO 2016-11-29 20:30:10,996 _internal 45274 140735212744704  * Restarting with stat
+WARNING 2016-11-29 20:30:11,365 _internal 45671 140735212744704  * Debugger is active!
+INFO 2016-11-29 20:30:11,372 _internal 45671 140735212744704  * Debugger pin code: 318-451-049
+INFO 2016-11-29 20:30:22,993 routes 45671 123145307557888 First Time Creating Local DB
+INFO 2016-11-29 20:30:23,003 routes 45671 123145307557888 DB Created 
+DEBUG 2016-11-29 20:30:23,012 routes 45671 123145307557888 ---> None
+INFO 2016-11-29 20:30:23,029 _internal 45671 123145307557888 127.0.0.1 - - [29/Nov/2016 20:30:23] "GET / HTTP/1.1" 200 -
+INFO 2016-11-29 20:30:24,753 _internal 45671 123145307557888 127.0.0.1 - - [29/Nov/2016 20:30:24] "GET /input HTTP/1.1" 200 -
+INFO 2016-11-29 20:31:00,701 _internal 45671 123145307557888 127.0.0.1 - - [29/Nov/2016 20:31:00] "POST /simulation HTTP/1.1" 200 -
+DEBUG 2016-11-29 20:31:00,706 tasks 45671 123145312813056 Simulation Task started!
+DEBUG 2016-11-29 20:31:00,706 tasks 45671 123145312813056 ImmutableMultiDict([('no_of_days', '12'), ('petrol_cars_no', '2'), ('lpg_price', '5'), ('no_of_kms', '40'), ('avg_petrol_maint', '15'), ('avg_lpg_maint', '12'), ('total_investment', '121212'), ('disel_price', '40'), ('driver_salary', '123'), ('disel_cars_no', '2'), ('areas_no', '2'), ('lpg_cars_no', '1'), ('avg_disel_maint', '10'), ('avg_maint_cost', '12'), ('drive_time_per_drver', '12'), ('no_of_drivers', '5'), ('petrol_price', '60')])
+DEBUG 2016-11-29 20:31:00,706 tasks 45671 123145312813056 simdata {'no_of_days': '12', 'lpg_cars_no': '1', 'avg_maint_cost': '12', 'petrol_price': '60', 'no_of_kms': '40', 'avg_petrol_maint': '15', 'avg_lpg_maint': '12', 'total_investment': '121212', 'no_of_drivers': '5', 'disel_price': '40', 'driver_salary': '123', 'avg_disel_maint': '10', 'petrol_cars_no': '2', 'disel_cars_no': '2', 'areas_no': '2', 'lpg_price': '5', 'drive_time_per_drver': '12'}
+DEBUG 2016-11-29 20:31:00,707 tasks 45671 123145312813056 added
+DEBUG 2016-11-29 20:31:00,713 tasks 45671 123145312813056 Simulation Done
+DEBUG 2016-11-29 20:31:00,726 tasks 45671 123145312813056       CustomerPay = 4076.333613231946
+DEBUG 2016-11-29 20:31:00,727 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,727 tasks 45671 123145312813056  Total car Cost = 7226.778318464529
+DEBUG 2016-11-29 20:31:00,736 tasks 45671 123145312813056       CustomerPay = 5254.4475503872845
+DEBUG 2016-11-29 20:31:00,736 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,736 tasks 45671 123145312813056  Total car Cost = 7012.012799997496
+DEBUG 2016-11-29 20:31:00,742 tasks 45671 123145312813056       CustomerPay = 5689.255202339297
+DEBUG 2016-11-29 20:31:00,742 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,742 tasks 45671 123145312813056  Total car Cost = 6948.80203275169
+DEBUG 2016-11-29 20:31:00,747 tasks 45671 123145312813056       CustomerPay = 3898.7777337746816
+DEBUG 2016-11-29 20:31:00,747 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,747 tasks 45671 123145312813056  Total car Cost = 7240.144596501837
+DEBUG 2016-11-29 20:31:00,755 tasks 45671 123145312813056       CustomerPay = 5553.154429338872
+DEBUG 2016-11-29 20:31:00,755 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,755 tasks 45671 123145312813056  Total car Cost = 7156.482944544243
+DEBUG 2016-11-29 20:31:00,765 tasks 45671 123145312813056       CustomerPay = 5709.793697016234
+DEBUG 2016-11-29 20:31:00,765 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,766 tasks 45671 123145312813056  Total car Cost = 6907.828991527186
+DEBUG 2016-11-29 20:31:00,772 tasks 45671 123145312813056       CustomerPay = 3945.8658267887636
+DEBUG 2016-11-29 20:31:00,772 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,773 tasks 45671 123145312813056  Total car Cost = 7242.507741771653
+DEBUG 2016-11-29 20:31:00,782 tasks 45671 123145312813056       CustomerPay = 3854.03109238995
+DEBUG 2016-11-29 20:31:00,782 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,782 tasks 45671 123145312813056  Total car Cost = 7023.558909811098
+DEBUG 2016-11-29 20:31:00,786 tasks 45671 123145312813056       CustomerPay = 5643.213485835676
+DEBUG 2016-11-29 20:31:00,786 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,786 tasks 45671 123145312813056  Total car Cost = 6984.820871032117
+DEBUG 2016-11-29 20:31:00,791 tasks 45671 123145312813056       CustomerPay = 5906.7747083820805
+DEBUG 2016-11-29 20:31:00,791 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,791 tasks 45671 123145312813056  Total car Cost = 7277.793991057063
+DEBUG 2016-11-29 20:31:00,797 tasks 45671 123145312813056       CustomerPay = 5598.066178117908
+DEBUG 2016-11-29 20:31:00,797 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,797 tasks 45671 123145312813056  Total car Cost = 6883.845302370279
+DEBUG 2016-11-29 20:31:00,801 tasks 45671 123145312813056       CustomerPay = 4768.686970088891
+DEBUG 2016-11-29 20:31:00,801 tasks 45671 123145312813056  Total driver_cost = 7380.0
+DEBUG 2016-11-29 20:31:00,801 tasks 45671 123145312813056  Total car Cost = 6986.291001165957
+DEBUG 2016-11-29 20:31:05,558 routes 45671 123145307557888 ---> <SimulationTask 1>
+DEBUG 2016-11-29 20:31:05,563 routes 45671 123145307557888 --> Profit 7659.532986696431 
+DEBUG 2016-11-29 20:31:05,563 routes 45671 123145307557888 --> Total investment121212.0 
+DEBUG 2016-11-29 20:31:05,563 routes 45671 123145307557888 --> Customer income59898.400487691586
+DEBUG 2016-11-29 20:31:05,563 routes 45671 123145307557888 ---> Driver Expense 88560.0
+DEBUG 2016-11-29 20:31:05,563 routes 45671 123145307557888 ---> Car Expense 84890.86750099514
+DEBUG 2016-11-29 20:31:05,564 routes 45671 123145307557888 ----> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+DEBUG 2016-11-29 20:31:05,564 routes 45671 123145307557888 ----> [[7380.0, 7380.0, 7380.0, 7380.0, 7380.0, 7380.0, 7380.0, 7380.0, 7380.0, 7380.0, 7380.0, 7380.0], [72.26778318464528, 70.12012799997495, 69.48802032751689, 72.40144596501837, 71.56482944544243, 69.07828991527187, 72.42507741771652, 70.23558909811098, 69.84820871032117, 72.77793991057064, 68.83845302370278, 69.86291001165957]]
+INFO 2016-11-29 20:31:05,583 _internal 45671 123145307557888 127.0.0.1 - - [29/Nov/2016 20:31:05] "GET / HTTP/1.1" 200 -
